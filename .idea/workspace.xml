@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a91c1e82-284a-4d97-a6b3-686a29c8da86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/cp1404practicals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac01/broken_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac01/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac01/sales_bonus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac01/shop_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac02/OUTPUT_FILE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac02/capitalist_conrad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac02/exceptions_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac02/exceptions_to_complete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac02/files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac02/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac02/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac02/password checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac02/randoms.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\cp1404practicals\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFrOVcky8pCux7JYjMPSEerNjH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\26927\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a91c1e82-284a-4d97-a6b3-686a29c8da86" name="Default Changelist" comment="" />
+      <created>1586342150631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586342150631</updated>
+      <workItem from="1586342153106" duration="1264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&#9;This is my upload practical 3 document for cp1404" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#9;This is my upload practical 3 document for cp1404" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1532" y="299" key="CommitChangelistDialog2" timestamp="1586343284129">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1532" y="299" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586343284129" />
+    <state x="1700" y="444" key="FileChooserDialogImpl" timestamp="1586343356195">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1700" y="444" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1586343356195" />
+    <state x="1612" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1586342154412">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1612" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586342154412" />
+    <state x="1750" y="494" key="svn.repositoryBrowser" timestamp="1586343409722">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1750" y="494" key="svn.repositoryBrowser/0.0.2560.1400@0.0.2560.1400" timestamp="1586343409722" />
+    <state x="1698" y="475" key="svn4idea.import.options" timestamp="1586343396092">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1698" y="475" key="svn4idea.import.options/0.0.2560.1400@0.0.2560.1400" timestamp="1586343396092" />
+  </component>
+</project>
