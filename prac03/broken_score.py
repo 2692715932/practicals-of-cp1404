@@ -1,3 +1,5 @@
+#
+
 def main():
         score = float(input("Enter score: "))
         result = output_result(score)
