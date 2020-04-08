@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a91c1e82-284a-4d97-a6b3-686a29c8da86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/cp1404practicals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a91c1e82-284a-4d97-a6b3-686a29c8da86" name="Default Changelist" comment="&#9;This is my upload practical document for cp1404">
       <change afterPath="$PROJECT_DIR$/prac01/broken_score.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/prac01/loops.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/prac01/sales_bonus.py" afterDir="false" />
@@ -22,6 +15,7 @@
       <change afterPath="$PROJECT_DIR$/prac02/numbers.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/prac02/password checker.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/prac02/randoms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +66,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586342150631</updated>
-      <workItem from="1586342153106" duration="1264000" />
+      <workItem from="1586342153106" duration="1533000" />
     </task>
+    <task id="LOCAL-00001" summary="&#9;This is my upload practical document for cp1404">
+      <created>1586343456265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586343456265</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&#9;This is my upload practical document for cp1404">
+      <created>1586343488858</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586343488858</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,28 +90,29 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&#9;This is my upload practical 3 document for cp1404" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#9;This is my upload practical 3 document for cp1404" />
+    <MESSAGE value="&#9;This is my upload practical document for cp1404" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#9;This is my upload practical document for cp1404" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1532" y="299" key="CommitChangelistDialog2" timestamp="1586343284129">
+    <state x="1532" y="299" key="CommitChangelistDialog2" timestamp="1586343629249">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1532" y="299" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586343284129" />
-    <state x="1700" y="444" key="FileChooserDialogImpl" timestamp="1586343356195">
+    <state x="1532" y="299" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586343629249" />
+    <state x="1700" y="444" key="FileChooserDialogImpl" timestamp="1586343678607">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1700" y="444" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1586343356195" />
+    <state x="1700" y="444" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1586343678607" />
     <state x="1612" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1586342154412">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1612" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586342154412" />
-    <state x="1750" y="494" key="svn.repositoryBrowser" timestamp="1586343409722">
+    <state x="1750" y="494" key="svn.repositoryBrowser" timestamp="1586343682969">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1750" y="494" key="svn.repositoryBrowser/0.0.2560.1400@0.0.2560.1400" timestamp="1586343409722" />
-    <state x="1698" y="475" key="svn4idea.import.options" timestamp="1586343396092">
+    <state x="1750" y="494" key="svn.repositoryBrowser/0.0.2560.1400@0.0.2560.1400" timestamp="1586343682969" />
+    <state x="1698" y="475" key="svn4idea.import.options" timestamp="1586343681018">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1698" y="475" key="svn4idea.import.options/0.0.2560.1400@0.0.2560.1400" timestamp="1586343396092" />
+    <state x="1698" y="475" key="svn4idea.import.options/0.0.2560.1400@0.0.2560.1400" timestamp="1586343681018" />
   </component>
 </project>
